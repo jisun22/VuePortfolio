@@ -1,4 +1,4 @@
-![jisun](https://user-images.githubusercontent.com/89379902/211788832-c909d53b-fea4-4f49-af44-a7257a8955f9.png)
+
 ![vue app](https://user-images.githubusercontent.com/89379902/213496233-30c1498b-15fd-42c5-9d2c-216fee60fe3a.png)
 
 
