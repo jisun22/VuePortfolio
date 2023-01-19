@@ -46,21 +46,9 @@
 
 ## Used Technologies
 * CSS3
-* TypeScript
-* React
+* Html
+* vue.js
 * Github GraphQL API
-* Apollo-Boost
-* react-easy-emoji
-* react-reveal  
-
-
-## Reference
-
-[React Reveal](https://www.react-reveal.com/)  
-
-[React Easy Emoji](https://www.npmjs.com/package/react-easy-emoji)  
-
-[gh-pages](https://www.npmjs.com/package/gh-pages)
 
 
 ##  :clipboard:Portfolio :clipboard:
